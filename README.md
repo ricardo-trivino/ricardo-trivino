@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ricardo-trivino/ricardo-trivino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Canal Tecnológico & EduComm...
@@ -11,4 +8,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with MySQL...
 - 💬 Ask me about HTML & CSS...
 - 📫 How to reach me: twitter, instagram...
--->
