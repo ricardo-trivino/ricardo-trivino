@@ -6,11 +6,11 @@
 
 <p align="center">
 <br/>
-<a href="https://twitter.com/spida_rwin">
-  <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+<a href="https://twitter.com/RikardoTrivino">
+  <img alt="Ricardo | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
-  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+<a href="https://www.linkedin.com/in/ricardo-trivi%C3%B1o-8933a7148/">
+  <img alt="Ricardo's LinkdeIn" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 <a href="https://www.facebook.com/erwin.lejeune">
   <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
