@@ -24,7 +24,7 @@
 </p>
 
 I'm a **Student 👨🏻‍💼 in [@UDEC](https://www.ucundinamarca.edu.co/)** in Colombia. I also work on my own projects of **Web Development / Software Design [@CanalTecnologico](no url yet)** as a personal project, and [@EduComm](https://educommudec.000webhostapp.com/)** as part of a course from Udemy platform. I strongly advocate you to get into Open Source community 📢 [@Coding Latam](https://github.com/Coding-Latam) where we share knowledge and build a coders society.
-post. if you don´t, i will write your name...
+<p> [@post.] if you don´t, i will write your name... </p>
 <p align="center">
 <img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
 </p>
