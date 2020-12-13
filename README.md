@@ -31,7 +31,7 @@ I'm a **Student 👨🏻‍💼 in [@UDEC](https://www.ucundinamarca.edu.co/)** 
 </p>
 
 - 📖 I’m currently learning new things on [Udemy](https://www.udemy.com/);
-- 👨‍💻 Fields I enjoy the most include [🖥️📲 Responsive design, 💲 E-commerce, 💉 Health, 📊 Statistics]
+- 👨‍💻 Fields I enjoy the most include [🖥️📲 Responsive design, 💲 E-commerce, 💉 Health, 📊 Statistics];
 - 📈 I have practice and some experience in [Html, Css, JavaScript, PHP];
 - 💬 I am fast to respond and looking for a job that makes me grow personally and profesionally;
 - 📫 How to reach me: <ricardo.trivinob@gmail.com>;
