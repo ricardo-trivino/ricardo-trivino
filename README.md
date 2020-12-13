@@ -33,9 +33,8 @@ I'm a **Student 👨🏻‍💼 in [@UDEC](https://www.ucundinamarca.edu.co/)** 
 - 📖 I’m currently learning new things on [Udemy](https://www.udemy.com/);
 - 👨‍💻 Fields I enjoy the most include [🖥️📲 Responsive design, 💲 E-commerce, 💉 Health, 📊 Statistics]
 - 📈 I have practice and some experience in [Html, Css, JavaScript, PHP];
-- 💬 I am fast to respond and looking for people willing to grow their profiles by contributing regularly;
-- ⚡️ I am currently writing an article along with [Sampreet Sarkar](https://github.com/sampreets3) to submit at **ICCAR 2021** for our work on Real-Time constrained ROS using Xenomai.
-- 📫 How to reach me: <erwinlejeune.pro@gmail.com>;
+- 💬 I am fast to respond and looking for a job that makes me grow personally and profesionally;
+- 📫 How to reach me: <ricardo.trivinob@gmail.com>;
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
