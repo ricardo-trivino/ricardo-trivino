@@ -27,7 +27,7 @@ I'm a **Student 👨🏻‍💼 in [@UDEC](https://www.ucundinamarca.edu.co/)** 
 **Post:** if you don´t, i will write your name...
 
 <p align="center">
-<img align="center" alt="GIF" src="https://media1.tenor.com/images/e5dd8fb170bedb03003cb81ce0f72c60/tenor.gif?itemid=8708162" />
+<img align="center" alt="GIF" src="https://media.tenor.com/images/508a86bb4602a139a9103637ee52f5a0/tenor.gif" />
 </p>
 
 - 📖 I’m currently learning new things on [Coursera](https://www.coursera.org);
