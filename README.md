@@ -30,7 +30,7 @@ I'm a **Student 👨🏻‍💼 in [@UDEC](https://www.ucundinamarca.edu.co/)** 
 <img align="center" alt="GIF" src="https://cdn.eldeforma.com/wp-content/uploads/2020/06/death-note-wirting-gif.gif" />
 </p>
 
-- 📖 I’m currently learning new things on [Coursera](https://www.coursera.org);
+- 📖 I’m currently learning new things on [Udemy](https://www.udemy.com/);
 - 🤹🏽 Fields I enjoy the most include [🤖 Robotics, 🎛 Embedded Systems, 🖼 Computer Vision, 📊 Data Science]
 - 📈 I’m fluent in [C/C++, Python, Go, Julia, Matlab];
 - 💬 I am fast to respond and looking for people willing to grow their profiles by contributing regularly;
