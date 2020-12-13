@@ -38,7 +38,7 @@ I'm a **Student 👨🏻‍💼 in [@UDEC](https://www.ucundinamarca.edu.co/)** 
 - 📫 How to reach me: <erwinlejeune.pro@gmail.com>;
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://tenor.com/KHyo.gif" />
 </p>
 
 
