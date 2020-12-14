@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/ricardo-trivino/ricardo-trivino/actions)
+[![Actions Status](https://github.com/ricardo-trivino/ricardo-trivino/workflows/wakatime-stats/badge.svg)](https://github.com/ricardo-trivino/ricardo-trivino/actions)
 [![Actions Status](https://github.com/ricardo-trivino/ricardo-trivino/workflows/update-gh-activity/badge.svg)](https://github.com/ricardo-trivino/ricardo-trivino/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=ricardo-trivino.ricardo-trivino)
 
