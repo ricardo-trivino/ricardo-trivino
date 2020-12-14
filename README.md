@@ -46,8 +46,8 @@ I'm a **Student 👨🏻‍💼 in [@UDEC](https://www.ucundinamarca.edu.co/)** 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#9](https://github.com/ricardo-trivino/go-pddl/issues/9) in [ricardo-trivino/go-pddl](https://github.com/ricardo-trivino/go-pddl)
 2. 🎉 Merged PR [#8](https://github.com/ricardo-trivino/go-pddl/pull/8) in [ricardo-trivino/go-pddl](https://github.com/ricardo-trivino/go-pddl)
-3. 💪 Opened PR [#8](https://github.com/guilyx/go-pddl/pull/8) in [guilyx/go-pddl](https://github.com/guilyx/go-pddl)
-4. 🎉 Merged PR [#7](https://github.com/guilyx/go-pddl/pull/7) in [guilyx/go-pddl](https://github.com/guilyx/go-pddl)
+3. 💪 Opened PR [#8](https://github.com/ricardo-trivino/go-pddl/pull/8) in [ricardo-trivino/go-pddl](https://github.com/ricardo-trivino/go-pddl)
+4. 🎉 Merged PR [#7](https://github.com/ricardo-trivino/go-pddl/pull/7) in [ricardo-trivino/go-pddl](https://github.com/ricardo-trivino/go-pddl)
 5. ❗️ Closed issue [#1](https://github.com/guilyx/go-pddl/issues/1) in [guilyx/go-pddl](https://github.com/guilyx/go-pddl)
 <!--END_SECTION:activity-->
 
