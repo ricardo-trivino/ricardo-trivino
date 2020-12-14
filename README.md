@@ -1,5 +1,5 @@
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/ricardo-trivino/ricardo-trivino/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/ricardo-trivino/ricardo-trivino/actions)
+![update-gh-activity](https://github.com/ricardo-trivino/ricardo-trivino/workflows/update-gh-activity/badge.svg)(https://github.com/ricardo-trivino/ricardo-trivino/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=ricardo-trivino.ricardo-trivino)
 
 ### 👋 Hi, I'm [Ricardo Triviño](https://ricardo-trivino.github.io/) 
