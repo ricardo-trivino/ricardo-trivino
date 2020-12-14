@@ -37,7 +37,7 @@ I'm a **Student 👨🏻‍💼 in [@UDEC](https://www.ucundinamarca.edu.co/)** 
 - 📫 How to reach me: <ricardo.trivinob@gmail.com>;
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=ricardo-trivino&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 
