@@ -51,7 +51,7 @@ I'm a **Student 👨🏻‍💼 in [@UDEC](https://www.ucundinamarca.edu.co/)** 
 5. ❗️ Closed issue [#1](https://github.com/ricardo-trivino/go-pddl/issues/1) in [ricardo-trivino/go-pddl](https://github.com/ricardo-trivino/go-pddl)
 <!--END_SECTION:activity-->
 
-<! -- START_SECTION: waka -->
+<!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.2%20million%20lines%20of%20code-red)
 
 **I'm a Night 🦉** 
@@ -92,7 +92,7 @@ YAML                     9 mins              ░░░░░░░░░░░�
 ```
 
 
-<! -- END_SECTION: waka -->
+<!--END_SECTION:waka-->
 
 **Languages and Tools:**  
 
