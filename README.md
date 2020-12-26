@@ -108,8 +108,8 @@ YAML                     9 mins              ░░░░░░░░░░░�
 <code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 
-<p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ricardo-trivino&show_icons=true&hide_border=true">
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardo-trivino&show_icons=true&hide_border=true">
 </p>
 
 <p align="center">
