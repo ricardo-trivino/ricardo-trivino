@@ -40,17 +40,6 @@ I'm a **Student 👨🏻‍💼 in [@UDEC](https://www.ucundinamarca.edu.co/)** 
   <img alig src="https://github-profile-trophy.vercel.app/?username=ricardo-trivino&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-
-**:zap: Recent Activity:**
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/ricardo-trivino/go-pddl/issues/1) in [ricardo-trivino/go-pddl](https://github.com/ricardo-trivino/go-pddl)
-2. 🎉 Merged PR [#1](https://github.com/ricardo-trivino/go-pddl/pull/1) in [ricardo-trivino/go-pddl](https://github.com/ricardo-trivino/go-pddl)
-3. 💪 Opened PR [#1](https://github.com/ricardo-trivino/go-pddl/pull/1) in [ricardo-trivino/go-pddl](https://github.com/ricardo-trivino/go-pddl)
-4. 🎉 Merged PR [#1](https://github.com/ricardo-trivino/go-pddl/pull/1) in [ricardo-trivino/go-pddl](https://github.com/ricardo-trivino/go-pddl)
-5. ❗️ Closed issue [#1](https://github.com/ricardo-trivino/go-pddl/issues/1) in [ricardo-trivino/go-pddl](https://github.com/ricardo-trivino/go-pddl)
-<!--END_SECTION:activity-->
-
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.2%20million%20lines%20of%20code-red)
 
