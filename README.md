@@ -23,6 +23,7 @@
 </a>
 </p>
 
+I am still a student of Engineering but i spent all the time I can to my programation skills. I've programmed in assembler, C, C++ and for about a year I've been making web development projects with HTML, CSS and JavaScript, even if I dedicated the longest time to PHP y MySQL. Love life 🎉 and do better every day.
 I'm a **Student 👨🏻‍💼 in [@UDEC](https://www.ucundinamarca.edu.co/)** in Colombia. I also work on my own projects of **Web Development / Software Design [@CanalTecnologico](no url yet) as a personal project, and [@EduComm](https://educommudec.000webhostapp.com/)** as part of a course from Udemy platform. I strongly advocate you to get into Open Source community 📢 [@Coding Latam](https://github.com/Coding-Latam) where we share knowledge and build a coders society.</br>
 **Post:** if you don´t, i will write your name...
 
