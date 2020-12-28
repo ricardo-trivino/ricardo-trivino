@@ -38,7 +38,7 @@ I'm a **Student 👨🏻‍💼 in [@UDEC](https://www.ucundinamarca.edu.co/)** 
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=ricardo-trivino&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-  < img  src = " https://github.com/<ricardo-trivino>/<ricardo-trivino>/blob/master/images/codeStats.svg " alt = " Mi actividad codificando " />
+  < img  src = " https://github.com/ricardo-trivino/ricardo-trivino/blob/master/images/codeStats.svg " alt = " Mi actividad codificando " />
 </p>
 
 <!--START_SECTION:waka-->
