@@ -41,6 +41,7 @@ I'm a **Student 👨🏻‍💼 in [@UDEC](https://www.ucundinamarca.edu.co/)** 
 </p>
 
 <!--START_SECTION:waka-->
+< img  src = " https://github.com/<ricardo-trivino>/<ricardo-trivino>/blob/master/images/codeStats.svg " alt = " Mi actividad codificando " />
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.2%20million%20lines%20of%20code-red)
 
 **I'm a Night 🦉** 
