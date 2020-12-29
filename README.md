@@ -1,69 +1,88 @@
-[![Actions Status](https://github.com/ricardo-trivino/ricardo-trivino/workflows/wakatime-stats/badge.svg)](https://github.com/ricardo-trivino/ricardo-trivino/actions)
-[![Actions Status](https://github.com/ricardo-trivino/ricardo-trivino/workflows/update-gh-activity/badge.svg)](https://github.com/ricardo-trivino/ricardo-trivino/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=ricardo-trivino.ricardo-trivino)
+<h2>नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-### 👋 Hi, I'm [Ricardo Triviño](https://ricardo-trivino.github.io/) 
+![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-<p align="center">
-<br/>
-<a href="https://twitter.com/RikardoTrivino">
-  <img alt="Ricardo | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ricardo-trivi%C3%B1o-8933a7148/">
-  <img alt="Ricardo's LinkdeIn" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
-<a href="https://m.facebook.com/rikardo.trivino">
-  <img alt="Ricardo's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
-</a>
-<a href="https://www.instagram.com/trivino.ricardo/">
-  <img alt="Ricardo's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-<a href="https://open.spotify.com/user/22la63smp6k3edyulh5t7gkha">
-  <img alt="Ricardo's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
-</a>
-</p>
+👇 Hit in your console or terminal to connect with me.
 
-I am still a student of Engineering but i spent all the time I can to my programation skills. I've programmed in assembler, C, C++ and for about a year I've been making web development projects with HTML, CSS and JavaScript, even if I dedicated the longest time to PHP y MySQL. Love life 🎉 and do better every day.
-I'm a **Student 👨🏻‍💼 in [@UDEC](https://www.ucundinamarca.edu.co/)** in Colombia. I also work on my own projects of **Web Development / Software Design [@CanalTecnologico](no url yet) as a personal project, and [@EduComm](https://educommudec.000webhostapp.com/)** as part of a course from Udemy platform. I strongly advocate you to get into Open Source community 📢 [@Coding Latam](https://github.com/Coding-Latam) where we share knowledge and build a coders society.</br>
-**Post:** if you don´t, i will write your name...
+```bash
+npx anmol
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
-<p align="center">
-<img align="center" alt="GIF" src="https://cdn.eldeforma.com/wp-content/uploads/2020/06/death-note-wirting-gif.gif" />
-</p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 📖 I’m currently learning new things on [Udemy](https://www.udemy.com/);
-- 👨‍💻 Fields I enjoy the most include [🖥️📲 Responsive design, 💲 E-commerce, 💉 Health, 📊 Statistics];
-- 📈 I have practice and some experience in [Html, Css, JavaScript, PHP];
-- 💬 I am fast to respond and looking for a job that makes me grow personally and profesionally;
-- 📫 How to reach me: <ricardo.trivinob@gmail.com>;
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        mobileApp: ["Android App"],
+        frontEnd: {
+            js: ["Vue", "Nuxt"],
+            css: ["materialize", "vuetify", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express", "SuiteScript"],
+            python: ["flask"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Comptetive Programming using C++",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ricardo-trivino&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-  < img  src = " https://github.com/ricardo-trivino/ricardo-trivino/blob/master/images/codeStats.svg " alt = " Mi actividad codificando " />
-</p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
+---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.2%20million%20lines%20of%20code-red)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-689-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 715 Contributions in the Year 2020
+ > 
+> 📦 334.0 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 33 Public Repositories 
+ > 
+> 🔑 18 Private Repositories  
+ > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    110 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-🌆 Daytime    566 commits    █████████░░░░░░░░░░░░░░░░   36.73% 
-🌃 Evening    583 commits    █████████░░░░░░░░░░░░░░░░   37.83% 
-🌙 Night      282 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.3%
+🌞 Morning    76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
+🌆 Daytime    182 commits    ████████░░░░░░░░░░░░░░░░░   34.34% 
+🌃 Evening    141 commits    ██████░░░░░░░░░░░░░░░░░░░   26.6% 
+🌙 Night      131 commits    ██████░░░░░░░░░░░░░░░░░░░   24.72%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       245 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.9% 
-Tuesday      251 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.29% 
-Wednesday    279 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.11% 
-Thursday     151 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.8% 
-Friday       225 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
-Saturday     231 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.99% 
-Sunday       159 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.32%
+Monday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.4% 
+Tuesday      59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.13% 
+Wednesday    55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
+Thursday     82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.47% 
+Friday       60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.32% 
+Saturday     70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.21% 
+Sunday       133 commits    ██████░░░░░░░░░░░░░░░░░░░   25.09%
 
 ```
 
@@ -71,38 +90,44 @@ Sunday       159 commits    ██░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Paris
+⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Go                       14 hrs 53 mins      ████████████████████░░░░░   80.12% 
-Other                    1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.41% 
-Racket                   1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.25% 
-Python                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62% 
-YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
+JavaScript               9 hrs 8 mins        ████████████░░░░░░░░░░░░░   48.45% 
+Vue.js                   4 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.77% 
+PHP                      4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   22.3% 
+JSON                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.32% 
+Other                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86%
+
+🔥 Editors: 
+WebStorm                 14 hrs 28 mins      ███████████████████░░░░░░   76.75% 
+PhpStorm                 4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   22.3% 
+PyCharm                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51% 
+Android Studio           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+
+💻 Operating System: 
+Mac                      12 hrs 14 mins      ████████████████░░░░░░░░░   64.88% 
+Windows                  6 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   35.12%
+
+```
+
+**I Mostly Code in Vue** 
+
+```text
+Vue                      10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
+Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
 
 ```
 
 
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
-**Languages and Tools:**  
-
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/3190/3190604.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2942/2942156.svg"></code>
-<code><img height="50" src="https://img.icons8.com/color/48/000000/golang.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
-<code><img height="50" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/matlab_104289.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2721/2721297.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardo-trivino&show_icons=true&hide_border=true">
-</p>
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/dq01aOE" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
-</p>
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
