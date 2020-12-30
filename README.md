@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardo-trivino&label=Profile%20views&color=0e75b6&style=flat" alt="ricardo-trivino" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma&column=3&margin-w=15&margin-h=15/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardo-trivino" alt="ricardo-trivino" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma&theme=darkhub/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardo-trivino&theme=darkhub" alt="ricardo-trivino" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rikardotrivino" target="blank"><img src="https://img.shields.io/twitter/follow/rikardotrivino?logo=twitter&style=for-the-badge" alt="rikardotrivino" /></a> </p>
 
