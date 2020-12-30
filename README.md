@@ -1,108 +1,40 @@
-[![Actions Status](https://github.com/ricardo-trivino/ricardo-trivino/workflows/wakatime-stats/badge.svg)](https://github.com/ricardo-trivino/ricardo-trivino/actions)
-[![Actions Status](https://github.com/ricardo-trivino/ricardo-trivino/workflows/update-gh-activity/badge.svg)](https://github.com/ricardo-trivino/ricardo-trivino/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=ricardo-trivino.ricardo-trivino)
+<h1 align="center">Hi there👋, I'm Ricardo</h1>
+<h3 align="center">I'm still a student of Engineering but i spent all the time I can to my programation skills. I've programmed in assembler, C, C++, Java and for about a year I've been making web development projects with HTML, CSS and JavaScript, even if I dedicated the longest time to PHP y MySQL. Love life 🎉 and do better every day.</h3>
 
-### 👋 Hi, I'm [Ricardo Triviño](https://ricardo-trivino.github.io/) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardo-trivino&label=Profile%20views&color=0e75b6&style=flat" alt="ricardo-trivino" /> </p>
 
-<p align="center">
-<br/>
-<a href="https://twitter.com/RikardoTrivino">
-  <img alt="Ricardo | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ricardo-trivi%C3%B1o-8933a7148/">
-  <img alt="Ricardo's LinkdeIn" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
-<a href="https://m.facebook.com/rikardo.trivino">
-  <img alt="Ricardo's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
-</a>
-<a href="https://www.instagram.com/trivino.ricardo/">
-  <img alt="Ricardo's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-<a href="https://open.spotify.com/user/22la63smp6k3edyulh5t7gkha">
-  <img alt="Ricardo's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
-</a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardo-trivino" alt="ricardo-trivino" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/rikardotrivino" target="blank"><img src="https://img.shields.io/twitter/follow/rikardotrivino?logo=twitter&style=for-the-badge" alt="rikardotrivino" /></a> </p>
+
+- 🔭 I’m currently working on [EduComm](http://educommudec.000webhostapp.com/)
+
+- 🌱 I’m currently learning **HTML, CSS y JavaScript**
+
+- 🤝 I’m looking for help with [Canal Tecnológico](Nourl)
+
+- 👨‍💻 All of my projects are available at [https://ricardo-trivino.github.io/](https://ricardo-trivino.github.io/)
+
+- 💬 Ask me about **PHP**
+
+- 📫 How to reach me **ricardo.trivinob@gmail.com**
+
+- ⚡ Fun fact **I guess I am**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rikardotrivino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rikardotrivino" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ricardo-triviño-8933a7148" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ricardo-triviño-8933a7148" height="30" width="40" /></a>
+<a href="https://fb.com/rikardo.trivino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rikardo.trivino" height="30" width="40" /></a>
+<a href="https://instagram.com/trivino.ricardo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="trivino.ricardo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ricardo triviño" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ricardo triviño" height="30" width="40" /></a>
 </p>
 
-I'm still a student of Engineering but i spent all the time I can to my programation skills. I've programmed in assembler, C, C++, Java and for about a year I've been making web development projects with HTML, CSS and JavaScript, even if I dedicated the longest time to PHP y MySQL. Love life 🎉 and do better every day.
-I'm a **Student 👨🏻‍💼 in [@UDEC](https://www.ucundinamarca.edu.co/)** in Colombia. I also work on my own projects of **Web Development / Software Design [@CanalTecnologico](no url yet) as a personal project, and [@EduComm](https://educommudec.000webhostapp.com/)** as part of a course from Udemy platform. I strongly advocate you to get into Open Source community 📢 [@Coding Latam](https://github.com/Coding-Latam) where we share knowledge and build a coders society.</br>
-**Post:** if you don´t, i will write your name...
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-<p align="center">
-<img align="center" alt="GIF" src="https://cdn.eldeforma.com/wp-content/uploads/2020/06/death-note-wirting-gif.gif" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardo-trivino&show_icons=true&locale=en&layout=compact" alt="ricardo-trivino" /></p>
 
-- 📖 I’m currently learning new things on [Udemy](https://www.udemy.com/);
-- 👨‍💻 Fields I enjoy the most include [🖥️📲 Responsive design, 💲 E-commerce, 💉 Health, 📊 Statistics];
-- 📈 I have practice and some experience in [Html, Css, JavaScript, PHP];
-- 💬 I am fast to respond and looking for a job that makes me grow personally and profesionally;
-- 📫 How to reach me: <ricardo.trivinob@gmail.com>;
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardo-trivino&show_icons=true&locale=en" alt="ricardo-trivino" /></p>
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ricardo-trivino&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-  < img  src = " https://github.com/ricardo-trivino/ricardo-trivino/blob/master/images/codeStats.svg " alt = " Mi actividad codificando " />
-</p>
-
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.2%20million%20lines%20of%20code-red)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    110 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-🌆 Daytime    566 commits    █████████░░░░░░░░░░░░░░░░   36.73% 
-🌃 Evening    583 commits    █████████░░░░░░░░░░░░░░░░   37.83% 
-🌙 Night      282 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.3%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       245 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.9% 
-Tuesday      251 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.29% 
-Wednesday    279 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.11% 
-Thursday     151 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.8% 
-Friday       225 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
-Saturday     231 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.99% 
-Sunday       159 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.32%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-Go                       14 hrs 53 mins      ████████████████████░░░░░   80.12% 
-Other                    1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.41% 
-Racket                   1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.25% 
-Python                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62% 
-YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
-
-```
-
-
-<!--END_SECTION:waka-->
-
-**Languages and Tools:**  
-
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/3190/3190604.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2942/2942156.svg"></code>
-<code><img height="50" src="https://img.icons8.com/color/48/000000/golang.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
-<code><img height="50" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/matlab_104289.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2721/2721297.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardo-trivino&show_icons=true&hide_border=true">
-</p>
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/dq01aOE" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo-trivino&" alt="ricardo-trivino" /></p>
