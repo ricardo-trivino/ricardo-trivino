@@ -129,6 +129,7 @@ jobs:
 
 `SHOW_COMMIT`       flag can be set to `False` to hide the commit stats
 
+<!--START_SECTION:waka-->
 **I'm an early 🐤** 
 ```text
 🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
@@ -212,6 +213,7 @@ Dart         2 repos        █░░░░░░░░░░░░░░░░�
 CSS          2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
 ```
+<!--END_SECTION:waka-->
 
 `SHOW_SHORT_INFO`  flag can be set to `False` to hide the short fun fact info of user
 >This section requires personal access token with user permission otherwise data shown will be incorrect here
