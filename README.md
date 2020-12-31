@@ -31,7 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/RikardoTrivino" target="_blank">
+<a href="https://twitter.com/RikardoTrivino" {:target="_blank"}>
   <img alt="Ricardo | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ricardo-trivi%C3%B1o-8933a7148/" target="_blank">
