@@ -24,6 +24,7 @@
 
 - 📫 How to reach me: <ricardo.trivinob@gmail.com>;
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <br/>
 <a href="https://twitter.com/RikardoTrivino" target="blank">
@@ -44,15 +45,6 @@
 <a href="https://www.youtube.com/channel/UC2IjZAxijhDc4B_N1hPb9gg" target="blank">
   <img alt="Ricardo Triviño's Youtube" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111748.svg"/>
 </a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rikardotrivino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rikardotrivino" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ricardo-triviño-8933a7148" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ricardo-triviño-8933a7148" height="30" width="40" /></a>
-<a href="https://fb.com/rikardo.trivino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rikardo.trivino" height="30" width="40" /></a>
-<a href="https://instagram.com/trivino.ricardo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="trivino.ricardo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ricardo triviño" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ricardo triviño" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
