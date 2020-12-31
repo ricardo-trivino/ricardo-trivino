@@ -51,4 +51,4 @@
 </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardo-trivino&show_icons=true&locale=en&theme=midnight-purple" alt="ricardo-trivino" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardo-trivino&show_icons=true&locale=en&theme=midnight-purple&background_color=transparent" alt="ricardo-trivino" /></p>
