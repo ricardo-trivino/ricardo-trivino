@@ -10,7 +10,7 @@
 <img align="center" alt="GIF" src="https://cdn.elgrupoinformatico.com/Noticias/2019/12/happy-new-year-botella-480x320.gif" width="585" />
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardo-trivino&theme=darkhub&row=1&column=7" alt="ricardo-trivino" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardo-trivino&theme=dark&row=1&column=7" alt="ricardo-trivino" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rikardotrivino" target="blank"><img src="https://img.shields.io/twitter/follow/rikardotrivino?logo=twitter&style=for-the-badge" alt="rikardotrivino" /></a> </p>
 
@@ -51,4 +51,4 @@
 </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardo-trivino&show_icons=true&locale=en&theme=darkhub" alt="ricardo-trivino" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardo-trivino&show_icons=true&locale=en&theme=dark" alt="ricardo-trivino" /></p>
