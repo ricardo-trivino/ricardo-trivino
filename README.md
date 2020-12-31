@@ -7,19 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/rikardotrivino" target="blank"><img src="https://img.shields.io/twitter/follow/rikardotrivino?logo=twitter&style=for-the-badge" alt="rikardotrivino" /></a> </p>
 
-- 🔭 I’m currently working on [EduComm](http://educommudec.000webhostapp.com/)
+- 📖 I’m currently learning new things on [Udemy](https://www.udemy.com/);
 
-- 🌱 I’m currently learning **HTML, CSS y JavaScript**
+- 👨‍💻 Fields I enjoy the most include [🖥️📲 Responsive design, 💲 E-commerce, 💉 Health, 📊 Statistics];
 
-- 🤝 I’m looking for help with [Canal Tecnológico](Nourl)
+- 📈 I have practice and some experience in [Html, Css, JavaScript, PHP];
 
 - 👨‍💻 All of my projects are available at [https://ricardo-trivino.github.io/](https://ricardo-trivino.github.io/)
 
-- 💬 Ask me about **PHP**
-
-- 📫 How to reach me **ricardo.trivinob@gmail.com**
-
-- ⚡ Fun fact **I guess I am**
+- 📫 How to reach me: <ricardo.trivinob@gmail.com>;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
