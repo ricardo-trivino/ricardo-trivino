@@ -26,7 +26,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<br/>
 <a href="https://twitter.com/RikardoTrivino" target="blank">
   <img alt="Ricardo | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
