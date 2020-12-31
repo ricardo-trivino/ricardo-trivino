@@ -6,6 +6,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ricardo-trivino.ricardo-trivino)
 <b align="left"><img src="https://komarev.com/ghpvc/?username=ricardo-trivino&label=Profile%20views&color=0e75b6&style=flat" alt="ricardo-trivino" /> </b>
 
+<p align="center">
+<img align="center" alt="GIF" src="https://cdn.eldeforma.com/wp-content/uploads/2020/06/death-note-wirting-gif.gif" />
+</p>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardo-trivino&theme=darkhub&row=1&column=7" alt="ricardo-trivino" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rikardotrivino" target="blank"><img src="https://img.shields.io/twitter/follow/rikardotrivino?logo=twitter&style=for-the-badge" alt="rikardotrivino" /></a> </p>
