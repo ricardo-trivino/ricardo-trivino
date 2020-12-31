@@ -7,7 +7,7 @@
 <b align="left"><img src="https://komarev.com/ghpvc/?username=ricardo-trivino&label=Profile%20views&color=0e75b6&style=flat" alt="ricardo-trivino" /> </b>
 
 <p align="center">
-<img align="center" alt="GIF" src="https://www.google.com.co/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F863635666012427097%2F&psig=AOvVaw3QDjx7zkGBnxBrjrb1OYGa&ust=1609473858152000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjJtLmq9-0CFQAAAAAdAAAAABAO" />
+<img align="center" alt="GIF" src="https://www.deseosparati.com/imagenes-feliz-ano-nuevo-2021/2021-numeros-cayendo.gif" />
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardo-trivino&theme=darkhub&row=1&column=7" alt="ricardo-trivino" /></a> </p>
