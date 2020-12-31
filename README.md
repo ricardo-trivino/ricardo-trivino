@@ -17,6 +17,25 @@
 
 - 📫 How to reach me: <ricardo.trivinob@gmail.com>;
 
+<p align="center">
+<br/>
+<a href="https://twitter.com/RikardoTrivino">
+  <img alt="Ricardo | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ricardo-trivi%C3%B1o-8933a7148/">
+  <img alt="Ricardo's LinkdeIn" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
+<a href="https://m.facebook.com/rikardo.trivino">
+  <img alt="Ricardo's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+</a>
+<a href="https://www.instagram.com/trivino.ricardo/">
+  <img alt="Ricardo's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>
+<a href="https://open.spotify.com/user/22la63smp6k3edyulh5t7gkha">
+  <img alt="Ricardo's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+</a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rikardotrivino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rikardotrivino" height="30" width="40" /></a>
