@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: <ricardo.trivinob@gmail.com>;
 
-<p align="center">
+<p align="left">
 <br/>
 <a href="https://twitter.com/RikardoTrivino" target="blank">
   <img alt="Ricardo | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
