@@ -7,7 +7,7 @@
 <b align="left"><img src="https://komarev.com/ghpvc/?username=ricardo-trivino&label=Profile%20views&color=0e75b6&style=flat" alt="ricardo-trivino" /> </b>
 
 <p align="center">
-<img align="center" alt="GIF" src="https://cdn.elgrupoinformatico.com/Noticias/2019/12/happy-new-year-botella-480x320.gif" width="570" />
+<img align="center" alt="GIF" src="https://cdn.elgrupoinformatico.com/Noticias/2019/12/happy-new-year-botella-480x320.gif" width="580" />
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardo-trivino&theme=darkhub&row=1&column=7" alt="ricardo-trivino" /></a> </p>
