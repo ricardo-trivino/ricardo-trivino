@@ -13,7 +13,7 @@
 
 - 📈 I have practice and some experience in [Html, Css, JavaScript, PHP];
 
-- 👨‍💻 All of my projects are available at [https://ricardo-trivino.github.io/](https://ricardo-trivino.github.io/)
+- 👨‍💻 All of my projects are available at [https://ricardo-trivino.github.io/](https://ricardo-trivino.github.io)
 
 - 📫 How to reach me: <ricardo.trivinob@gmail.com>;
 
