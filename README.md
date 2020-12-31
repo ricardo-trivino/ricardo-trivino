@@ -52,5 +52,3 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardo-trivino&show_icons=true&locale=en" alt="ricardo-trivino" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo-trivino&" alt="ricardo-trivino" /></p>
