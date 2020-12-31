@@ -19,20 +19,23 @@
 
 <p align="center">
 <br/>
-<a href="https://twitter.com/RikardoTrivino">
+<a href="https://twitter.com/RikardoTrivino" target="blank">
   <img alt="Ricardo | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ricardo-trivi%C3%B1o-8933a7148/">
+<a href="https://www.linkedin.com/in/ricardo-trivi%C3%B1o-8933a7148/" target="blank">
   <img alt="Ricardo's LinkdeIn" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
-<a href="https://m.facebook.com/rikardo.trivino">
+<a href="https://m.facebook.com/rikardo.trivino" target="blank">
   <img alt="Ricardo's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
-<a href="https://www.instagram.com/trivino.ricardo/">
+<a href="https://www.instagram.com/trivino.ricardo/" target="blank">
   <img alt="Ricardo's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
-<a href="https://open.spotify.com/user/22la63smp6k3edyulh5t7gkha">
+<a href="https://open.spotify.com/user/22la63smp6k3edyulh5t7gkha" target="blank">
   <img alt="Ricardo's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+</a>
+<a href="https://www.youtube.com/c/ricardo triviño" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ricardo triviño" height="30" width="40" />
 </a>
 </p>
 
