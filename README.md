@@ -35,7 +35,7 @@
   <img alt="Ricardo's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 <a href="https://www.youtube.com/c/ricardo triviño" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ricardo triviño" height="30" width="40" />
+  <img alt="Ricardo Triviño's Youtube" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg"/>
 </a>
 </p>
 
