@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ricardo-trivino&theme=darkhub&column=6&rank=SSS,SS,S,AAA,AA,A,BBB,BB,B,CCC,CC,C" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ricardo-trivino&theme=darkhub&column=4&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 <p align="left"> <a href="https://twitter.com/rikardotrivino" target="blank"><img src="https://img.shields.io/twitter/follow/rikardotrivino?logo=twitter&style=for-the-badge" alt="rikardotrivino" /></a> </p>
