@@ -31,11 +31,24 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rikardotrivino"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rikardotrivino" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ricardo-triviño-8933a7148" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ricardo-triviño-8933a7148" height="30" width="40" /></a>
-<a href="https://fb.com/rikardo.trivino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rikardo.trivino" height="30" width="40" /></a>
-<a href="https://instagram.com/trivino.ricardo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="trivino.ricardo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC2IjZAxijhDc4B_N1hPb9gg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ricardo triviño" height="30" width="40" /></a>
+<a href="https://twitter.com/RikardoTrivino">
+  <img alt="Ricardo | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ricardo-trivi%C3%B1o-8933a7148/">
+  <img alt="Ricardo's LinkdeIn" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
+<a href="https://m.facebook.com/rikardo.trivino">
+  <img alt="Ricardo's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+</a>
+<a href="https://www.instagram.com/trivino.ricardo/">
+  <img alt="Ricardo's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>
+<a href="https://open.spotify.com/user/22la63smp6k3edyulh5t7gkha">
+  <img alt="Ricardo's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UC2IjZAxijhDc4B_N1hPb9gg">
+  <img alt="Ricardo Triviño's Youtube" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111748.svg"/>
+</a>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardo-trivino&show_icons=true&locale=en&theme=midnight-purple" alt="ricardo-trivino"/></p>
