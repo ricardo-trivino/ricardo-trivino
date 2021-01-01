@@ -55,5 +55,5 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardo-trivino&show_icons=true&hide_border=true&theme=darkhub">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardo-trivino&show_icons=true&hide_border=true&theme=midnight-purple">
 </p>
