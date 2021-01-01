@@ -7,7 +7,7 @@
 <b align="left"><img src="https://komarev.com/ghpvc/?username=ricardo-trivino&label=Profile%20views&color=0e75b6&style=flat" alt="ricardo-trivino" /> </b>
 
 <p align="center">
-<img align="center" alt="GIF" src="https://cdn.elgrupoinformatico.com/Noticias/2019/12/happy-new-year-botella-480x320.gif" width="589" />
+<img align="center" alt="GIF" src="https://cdn.elgrupoinformatico.com/Noticias/2019/12/happy-new-year-botella-480x320.gif" width="592" />
 </p>
 
 <p align="center">
