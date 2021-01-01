@@ -35,7 +35,7 @@
 <a href="https://linkedin.com/in/ricardo-triviño-8933a7148" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ricardo-triviño-8933a7148" height="30" width="40" /></a>
 <a href="https://fb.com/rikardo.trivino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rikardo.trivino" height="30" width="40" /></a>
 <a href="https://instagram.com/trivino.ricardo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="trivino.ricardo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/ricardo triviño" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ricardo triviño" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC2IjZAxijhDc4B_N1hPb9gg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ricardo triviño" height="30" width="40" /></a>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardo-trivino&show_icons=true&locale=en&theme=midnight-purple" alt="ricardo-trivino"/></p>
