@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Ricardo</h1>
-<h3 align="center">I'm still a student of Engineering but i spent all the time I can to my programation skills. I've programmed in assembler, C, Java and for about a year I've been making web development projects with HTML, CSS and JavaScript, even if I dedicated the longest time to PHP y MySQL. Love life 🎉 and do better every day.</h3>
+<h3 align="center">I've programmed in C, PL/SQL Java and for about a year I've been making web development projects with HTML, CSS and JavaScript, even if I dedicated the longest time to PHP y MySQL. Love life 🎉 and do better every day.</h3>
 
 [![Actions Status](https://github.com/ricardo-trivino/ricardo-trivino/workflows/wakatime-stats/badge.svg)](https://github.com/ricardo-trivino/ricardo-trivino/actions)
 [![Actions Status](https://github.com/ricardo-trivino/ricardo-trivino/workflows/update-gh-activity/badge.svg)](https://github.com/ricardo-trivino/ricardo-trivino/actions)
